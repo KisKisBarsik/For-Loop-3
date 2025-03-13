@@ -19,7 +19,7 @@ for (let i = 1; i <=50; i++) {
 
 var sum = 0;
 
-for (let i = 1; i <=10; i++) {
+for (let i = 1; i <= 10; i++) {
     sum = sum + i;
 }
 document.writeln(`<br>`)
